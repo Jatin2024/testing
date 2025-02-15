@@ -1,7 +1,0 @@
-import React from "react";
-
-const BOSWidgetComponent = () => {
-  return <div>Hello, BOS Widget!</div>;
-};
-
-export default BOSWidgetComponent;
